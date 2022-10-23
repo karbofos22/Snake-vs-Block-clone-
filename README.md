@@ -1,1 +1,1 @@
-# Snake-vs-Block-clone-
+Pet project for educational purposes
